@@ -16,3 +16,7 @@ There are two versions, one is for shell and the other one is for web using **Bo
 > Web version is just a **plus**. It requires **Bootle** installed (i.e. `pip...`) and the service use `localhost:8080`. Then you can launch the **React** App (afert install it with `npm i`) and it will open the browser.
 
 ![](./findpairsweb.png)
+
+## About the Author - Portfolio
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/61986aa2181fb40d898b6bfa" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
